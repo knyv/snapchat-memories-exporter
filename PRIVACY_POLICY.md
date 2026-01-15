@@ -42,10 +42,11 @@ All stored data remains on your device and can be deleted by:
 3. Going to Settings → General → iPhone Storage → SC Memories Saver → Delete App
 
 ### Snapchat Integration
-- This app does NOT connect to Snapchat's servers
-- We do NOT authenticate with Snapchat
-- We only process ZIP files you manually download and import
-- Your Snapchat account credentials are never used or stored
+- This app does NOT authenticate with Snapchat
+- We do NOT store your Snapchat credentials
+- **Accurate Mode Only:** Downloads memories directly from Snapchat's CDN using publicly available URLs from your export data
+- **Fast Mode:** Only processes ZIP files you manually download and import
+- All Snapchat CDN communications are direct from your device to Snapchat's servers (not routed through our servers)
 
 ## In-App Purchase
 
