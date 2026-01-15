@@ -1,15 +1,16 @@
-# SC Memories Saver
+# Snapchat Memories Saver
 
-Save and export your precious Snapchat memories with ease.
+Save and preserve your precious Snapchat memories with full quality, metadata, and locations intact.
 
 ## Features
 
-- 📸 **Save Snapchat Memories** - Export your Snapchat memory backups to your device
-- 🖼️ **Browse Gallery** - View all your exported memories in a clean, organized gallery
-- 💾 **50 Free Saves** - Save up to 50 memories for free
-- 🔓 **Unlimited Saves** - Unlock unlimited memory exports with a one-time purchase
+- 📸 **Two Processing Modes** - Choose between Accurate (CDN downloads) or Fast (ZIP extraction)
+- 🎯 **Accurate Mode** - Downloads fresh copies from Snapchat with verified dates, GPS locations, and pristine quality
+- ⚡ **Fast Mode** - Quickly extracts memories from your ZIP file for rapid processing
+- 🖼️ **Browse Gallery** - View all your memories in an organized gallery with smooth scrolling
+- 💾 **Free & Premium** - Save up to 100 memories free, or unlock unlimited with one-time purchase
 - 🔒 **Private & Secure** - All processing happens locally on your device, no data sent to servers
-- ⚡ **Fast & Efficient** - Quick extraction and organization of your memory files
+- 📍 **Preserve Metadata** - Dates, locations, and image quality preserved exactly as original
 
 ## How It Works
 
@@ -45,15 +46,19 @@ See [PRIVACY_POLICY.md](PRIVACY_POLICY.md) for more details.
 
 ## Troubleshooting
 
+### Choosing Between Modes
+- **Accurate Mode** - Use this for most users. Downloads fresh copies with correct dates and locations (slower but best quality)
+- **Fast Mode** - Use if you need quick processing and don't care about exact metadata
+
 ### "Could not read the ZIP file" error
 - Ensure you downloaded the ZIP directly from Snapchat
 - Try importing one ZIP file at a time
 - Check that the file isn't corrupted
 
-### App crashes when importing large files
-- Try importing one ZIP file at a time instead of multiple
-- Restart the app and try again
-- Free up device storage space
+### Accurate mode is slow
+- This is normal! Downloads are verifying each memory from Snapchat's servers
+- Speed depends on your internet connection and number of memories
+- Try Fast mode if you need quick processing
 
 ### "Product not available" when trying to unlock premium
 - Make sure you have an active internet connection
