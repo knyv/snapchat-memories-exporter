@@ -1,10 +1,12 @@
 # Privacy Policy
 
-**Last Updated:** January 15, 2026
+**Last Updated:** February 2, 2026
 
 ## Overview
 
-SC Memories Saver ("the App") is committed to protecting your privacy. This Privacy Policy explains how we handle your information.
+SC Memories Saver ("the App") is the easiest way to back up and preserve your Snapchat memories — keeping your photos and videos saved in the correct order, with the right dates, locations, and original quality.
+
+We are committed to protecting your privacy. This Privacy Policy explains how we handle your information.
 
 ## Key Privacy Principles
 
@@ -25,7 +27,7 @@ SC Memories Saver ("the App") is committed to protecting your privacy. This Priv
 ## Data Handling
 
 ### Your Memories
-When you import a Snapchat ZIP file:
+When you import a SC ZIP file:
 1. The ZIP is processed entirely on your device
 2. Data is extracted and stored in the app's local storage
 3. No copies are sent anywhere
@@ -44,17 +46,17 @@ All stored data remains on your device and can be deleted by:
 ### Snapchat Integration
 - This app does NOT authenticate with Snapchat
 - We do NOT store your Snapchat credentials
-- **Accurate Mode Only:** Downloads memories directly from Snapchat's CDN using publicly available URLs from your export data
-- **Fast Mode:** Only processes ZIP files you manually download and import
-- All Snapchat CDN communications are direct from your device to Snapchat's servers (not routed through our servers)
+- SC Memories Saver only works with data you export yourself — the app does not access Snapchat accounts directly
 
 ## In-App Purchase
 
-When you purchase the "Unlimited Saves" premium feature:
+When you purchase the "Unlimited Saves" premium feature ($3.99 USD one-time purchase):
 - **Payment Processing** - Handled entirely by Apple's App Store
 - **We Never See** - Your payment information, credit card details, or Apple ID
 - **Apple's Policy** - Your payment information is governed by Apple's Privacy Policy
 - **Receipt Verification** - We only verify the purchase occurred, no additional data is collected
+- **Free Tier** - Up to 50 memories can be saved without purchase
+- **Premium** - Unlimited memory exports after one-time purchase
 
 ## iOS Permissions
 
@@ -123,4 +125,4 @@ This app is not affiliated with, endorsed by, or connected to Snapchat Inc. or S
 
 ---
 
-**Version 1.0** - January 2026
+**Version 1.5** - February 2026
