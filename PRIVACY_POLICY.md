@@ -1,10 +1,10 @@
 # Privacy Policy
 
-**Last Updated:** February 2, 2026
+**Last Updated:** February 6, 2026
 
 ## Overview
 
-SC Memories Saver ("the App") is the easiest way to back up and preserve your Snapchat memories — keeping your photos and videos saved in the correct order, with the right dates, locations, and original quality.
+SC Memories Saver ("the App") is the easiest way to back up and preserve your memories — keeping your photos and videos saved in the correct order, with the right dates and original quality.
 
 We are committed to protecting your privacy. This Privacy Policy explains how we handle your information.
 
@@ -27,7 +27,7 @@ We are committed to protecting your privacy. This Privacy Policy explains how we
 ## Data Handling
 
 ### Your Memories
-When you import a SC ZIP file:
+When you import a data export ZIP file:
 1. The ZIP is processed entirely on your device
 2. Data is extracted and stored in the app's local storage
 3. No copies are sent anywhere
@@ -43,10 +43,12 @@ All stored data remains on your device and can be deleted by:
 2. Uninstalling the app (automatically removes all stored data)
 3. Going to Settings → General → iPhone Storage → SC Memories Saver → Delete App
 
-### Snapchat Integration
-- This app does NOT authenticate with Snapchat
-- We do NOT store your Snapchat credentials
-- SC Memories Saver only works with data you export yourself — the app does not access Snapchat accounts directly
+### No External Services
+- This app does NOT authenticate with any social media platforms
+- We do NOT store your credentials
+- SC Memories Saver only works with data you export yourself — the app does not access any accounts
+- All processing happens locally on your device with no network communication required
+- All photos and videos remain fully owned by you and are processed locally on your device
 
 ## In-App Purchase
 
@@ -125,4 +127,4 @@ This app is not affiliated with, endorsed by, or connected to Snapchat Inc. or S
 
 ---
 
-**Version 1.5** - February 2026
+**Version 1.0** - January 2026
